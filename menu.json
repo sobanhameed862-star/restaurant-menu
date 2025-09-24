@@ -3,64 +3,52 @@
     {
       "name": "Margherita",
       "price": 8.99,
-      "description": "Fresh mozzarella, tomato sauce, basil, olive oil"
     },
     {
       "name": "Pepperoni",
       "price": 9.99,
-      "description": "Classic pepperoni, mozzarella, tomato sauce"
     },
     {
       "name": "Veggie",
       "price": 10.49,
-      "description": "Bell peppers, mushrooms, onions, olives, tomatoes"
     },
     {
       "name": "Hawaiian",
       "price": 10.99,
-      "description": "Ham, pineapple, mozzarella, tomato sauce"
     },
     {
       "name": "Meat Lovers",
       "price": 12.99,
-      "description": "Pepperoni, sausage, ham, bacon, mozzarella"
     },
     {
       "name": "BBQ Chicken",
       "price": 11.49,
-      "description": "Grilled chicken, BBQ sauce, red onions, cilantro"
     }
   ],
   "sides": [
     {
       "name": "Garlic Bread",
       "price": 3.99,
-      "description": "Toasted bread with garlic butter and herbs"
     },
     {
       "name": "Wings",
       "price": 6.99,
-      "description": "Choice of buffalo, BBQ, or garlic parmesan (8 pieces)"
     },
     {
       "name": "Mozzarella Sticks",
       "price": 5.99,
-      "description": "Breaded mozzarella with marinara sauce (6 pieces)"
     },
     {
       "name": "Caesar Salad",
       "price": 7.49,
-      "description": "Romaine, parmesan, croutons, caesar dressing"
     },
     {
       "name": "Breadsticks",
       "price": 4.49,
-      "description": "Soft breadsticks with marinara and cheese sauce"
     },
     {
       "name": "Antipasto Salad",
       "price": 9.49,
-      "description": "Mixed greens, salami, ham, cheese, olives, peppers"
     }
   ],
   "drinks": [
